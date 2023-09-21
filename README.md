@@ -1,6 +1,6 @@
 ### Hi there
 
-- 🛠️ Currently working for [*ANWB*](http://www.anwb.nl)
+- 🛠️ Currently working for [**ANWB**](http://www.anwb.nl)
 - 🌱 I enjoy trying out new languages!
 - ⚡ Professionally I spend most of my time on frontend development
 - 💬 One time I uploaded some half-baked C++ code for an Arduino/NRF24 module to emulate a Xiaomi light bar remote that surprisingly many people found useful
