@@ -1,4 +1,8 @@
-### Hi there
+### Checking me out for recruitment? Sweet!
+
+Have fun checking out my hobby projects, some of them are even feature-complete. I know there's no tests, half these repos is just me trying random stuff out.
+
+### Short version
 
 - 🛠️ Currently working for [**ANWB**](http://www.anwb.nl)
 - 🌱 Go is easily my favourite programming language
